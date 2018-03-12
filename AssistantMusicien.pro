@@ -45,7 +45,8 @@ FORMS += \
     gestionnairelistes.ui
 
 RESOURCES += \
-    images.qrc
+    ressources.qrc
+
 
 INCLUDEPATH += /usr/include/poppler/qt5
 LIBS += -L/usr/lib -lpoppler-qt5

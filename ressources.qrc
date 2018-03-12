@@ -1,17 +1,26 @@
 <RCC>
     <qresource prefix="/">
+        <file>images/Actions-edit-delete-icon.png</file>
         <file>images/Actions-media-playback-pause-icon.png</file>
         <file>images/Actions-media-playback-start-icon.png</file>
         <file>images/Actions-media-playback-stop-icon.png</file>
         <file>images/Actions-media-seek-backward-icon.png</file>
         <file>images/Actions-media-seek-forward-icon.png</file>
         <file>images/Ajouter.png</file>
+        <file>images/AjouterListe.png</file>
         <file>images/Apps-Dialog-Add-icon.png</file>
         <file>images/Apps-Dialog-Remove-icon.png</file>
         <file>images/Apps-Go-Down-icon.png</file>
         <file>images/Apps-Go-Up-icon.png</file>
+        <file>images/audio.png</file>
+        <file>images/Charger.png</file>
+        <file>images/Descendre.png</file>
+        <file>images/Enregistrement.png</file>
         <file>images/Enregistrer.png</file>
-        <file>images/icon-Audio.png</file>
+        <file>images/icon-audio.png</file>
+        <file>images/icon-Liste.png</file>
+        <file>images/icon-partition.png</file>
+        <file>images/icon-Partition.png</file>
         <file>images/iconRougeAleatoire.png</file>
         <file>images/iconRougeBoucle.png</file>
         <file>images/iconRougeSequentiel.png</file>
@@ -20,25 +29,18 @@
         <file>images/iconVertSequentiel.png</file>
         <file>images/jalonA.png</file>
         <file>images/jalonB.png</file>
+        <file>images/modificationDossier.png</file>
+        <file>images/modifier.png</file>
+        <file>images/monter.png</file>
+        <file>images/note.png</file>
+        <file>images/nouveau.png</file>
         <file>images/Nouvelle.png</file>
         <file>images/Ouvrir.png</file>
-        <file>images/sound-Off.png</file>
-        <file>images/sound-On.png</file>
-        <file>images/icon-Partition.png</file>
-        <file>images/icon-Liste.png</file>
-        <file>images/modifier.png</file>
-        <file>images/audio.png</file>
-        <file>images/Enregistrement.png</file>
-        <file>images/note.png</file>
-        <file>images/modificationDossier.png</file>
-        <file>images/Charger.png</file>
-        <file>images/sauvegarde.png</file>
-        <file>images/AjouterListe.png</file>
-        <file>images/renommer.png</file>
-        <file>images/nouveau.png</file>
-        <file>images/Descendre.png</file>
-        <file>images/monter.png</file>
         <file>images/pagePrec.png</file>
         <file>images/pageSuiv.png</file>
+        <file>images/renommer.png</file>
+        <file>images/sauvegarde.png</file>
+        <file>images/sound-Off.png</file>
+        <file>images/sound-On.png</file>
     </qresource>
 </RCC>
