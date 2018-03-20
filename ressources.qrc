@@ -17,9 +17,7 @@
         <file>images/Descendre.png</file>
         <file>images/Enregistrement.png</file>
         <file>images/Enregistrer.png</file>
-        <file>images/icon-audio.png</file>
         <file>images/icon-Liste.png</file>
-        <file>images/icon-partition.png</file>
         <file>images/icon-Partition.png</file>
         <file>images/iconRougeAleatoire.png</file>
         <file>images/iconRougeBoucle.png</file>
@@ -42,5 +40,6 @@
         <file>images/sauvegarde.png</file>
         <file>images/sound-Off.png</file>
         <file>images/sound-On.png</file>
+        <file>images/icon-Audio.png</file>
     </qresource>
 </RCC>
